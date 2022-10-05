@@ -16,6 +16,10 @@ My current research interests are located within the field of machine learning, 
 
 Here is a list of my [papers](papers.html).
 
+## Software developement
+
+During my PhD I was involved in the developement of [SageMath](https://www.sagemath.org/).
+
 ## Student
 
 * [George Dasoulas](https://gdasoulas.github.io/) (co-supervised with [Michalis Vaziriannis](http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/) and [Kevin
