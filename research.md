@@ -23,5 +23,5 @@ During my PhD I was involved in the developement of [SageMath](https://www.sagem
 
 ## Student
 
-* [George Dasoulas](https://gdasoulas.github.io/) (co-supervised with [Michalis Vaziriannis](http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/) and [Kevin
-  Scaman](https://scaman.wordpress.com/)): today postdoc at Harvard
+* Pavlo Pasko (Kharkiv Polytechnic Institute) (winter 2023): internship on modelization of batteries using RC-models and application to electric cars, simulation and parameter estimation.
+* [George Dasoulas](https://gdasoulas.github.io/) (co-supervised with [Michalis Vaziriannis](http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/) and [Kevin Scaman](https://scaman.wordpress.com/)) (2019--2022): PhD on learning models for graphs.
