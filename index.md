@@ -6,7 +6,8 @@ layout: home
 picture: aladin.jpg
 ---
 
-I am a machine learning researcher at *Huawei Paris* within the *Noah's Ark* laboratory since 2017.
+I am a machine learning researcher at *Huawei Paris* within the *Noah's Ark*
+laboratory since 2017 in the [GTSParis team](https://gtsbrain-paris.github.io/)
 
 My current main area of research is **transfer learning**.
 
