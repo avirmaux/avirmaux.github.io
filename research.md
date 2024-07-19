@@ -3,7 +3,7 @@ title: Research
 layout: default
 ---
 
-Since 2017 I am a researcher in Machine Learning at Huawei Paris, in the Noah's Ark lab. I have been focusing on theoretical questions along telecommunication problems.
+Since 2017 I am a senior research scientist in Machine Learning at Huawei Paris, in the Noah's Ark lab. I have been focusing on theoretical questions along telecommunication problems.
 
 I did my PhD in *algebraic combinatorics* at LRI (Laboratoire de Recherche en Informatique, Université Paris-Saclay) under the supervision of Nicolas M. Thiéry.
 More precisely I studied the representation theory of monoids from a combinatorial perspective.
