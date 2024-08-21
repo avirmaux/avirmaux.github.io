@@ -6,9 +6,11 @@ layout: home
 picture: aladin.jpg
 ---
 
-I am a machine learning researcher at *Huawei Paris* within the *Noah's Ark*
-laboratory since 2017 in the [GTSParis team](https://gtsbrain-paris.github.io/)
+I am a machine learning researcher.
 
-My current main area of research is **transfer learning**.
+From 2017 and until July 2024, I was working at *Huawei Paris* within the *Noah's Ark* [GTSParis team](https://gtsbrain-paris.github.io/)
+
+My main interest lies in applying deep learning to structured data such as graph and time-series.
+Recently, I have been involved in projects related to **transfer learning**, modelling and anomaly detection in time-series.
 
 You can contact me at aladin [dot] virmaux [at] huawei [dot] com.
